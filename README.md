@@ -13,5 +13,5 @@
 
 ### Install NPX (execute npm package binaries)
 1. สั่งคำสั่ง `npm install -g npx`
-  <p><img src="src/checknpxversion.png"></p>
+   <p><img src="src/checknpxversion.png"></p>
 
