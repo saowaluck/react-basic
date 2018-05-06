@@ -4,13 +4,13 @@
 `workshop ในครั้งนี้จะใช้ node js เป็นเบื้องหลังในการรัน React`
 1. เข้าสู่เว็บ https://nodejs.org/en/
 2. กดดาวน์โหลด
-	<img src="src/dowloadnode.png">
+<p><img src="src/dowloadnode.png"></p>
 3. ทำการ install
 4. หากทำการติดตั้งสำเร็จ ให้ลองเปิด CMD แล้วสั่งคำสั่ง `node -v` จะพบเลขเวอร์ชั่นของ node js
-	<img src="src/checknodeversion.png">
+<p><img src="src/checknodeversion.png"></p>
 
 
 ### Install NPX (execute npm package binaries)
 1. สั่งคำสั่ง `npm install -g npx`
-	<img src="src/checknpxversion.png">
+<p><img src="src/checknpxversion.png"></p>
 
